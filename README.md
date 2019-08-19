@@ -1,5 +1,5 @@
 # CTF_Scripts
-Scripts made for various CTF Challenges
+Scripts made for Hacker101 CTF Challenges
 
 ## username_enum.py
 Created for Hacker101 CTF Pet Pro. Got tired of BurpSuite's rate limiting on base version and Hydra's messy cmdline. Quick script to check for a given dork in HTML response from a login form to enumerate a valid username on the server.
